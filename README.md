@@ -1,4 +1,4 @@
-Test-compas-dans-l-oeil
+Compas-dans-l-oeil
 =======================
 
 Cahier des charges
